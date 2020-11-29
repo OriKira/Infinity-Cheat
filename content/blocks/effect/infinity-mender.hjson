@@ -1,0 +1,22 @@
+type: MendProjector
+name: Infinity Mender
+description: "I am [cyan]444[]."
+size: 1
+requirements: [
+]
+range: 200
+healPercent: 50
+reload: 10
+useTime: 5
+consumes: {
+  power: 1.23
+  items: {
+    items: [
+      copper/1
+    ]
+    booster: true
+    optional: true
+  }
+}
+category: effect
+alwaysUnlocked: true
