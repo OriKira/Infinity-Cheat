@@ -1,0 +1,45 @@
+name: Infinity Foreshadow
+description: "Auto aim is better for this turret. I am [red]Foreshadow 444."
+type: itemTurret
+health: 444444
+category: turret
+range: 4444
+requirements: [
+]
+rotateSpeed: 4
+reloadTime: 25
+ammoUseEffect: casing3Double
+recoilAmount: 0
+restitution: 5
+cooldown: 0.009
+shootShake: 5
+shots: 1
+size: 4
+shootCone: 2
+shootSound: railgun
+coolantMultiplier: 1
+ammoTypes: {
+  surge-alloy: {
+	type: PointBulletType
+	shootEffect: instShoot
+	hitEffect: instHit
+	smokeEffect: smokeCloud
+	trailEffect: instTrail
+	despawnEffect: instBomb
+	trailSpacing: 20
+	damage: 44400
+	tileDamageMultiplier: 10
+	speed: 444
+	hitShake: 8
+	ammoMultiplier: 1
+  }
+}
+consumes: {
+  liquid: {
+	liquid: water
+	amount: 0.4
+    optional: true
+	booster: true
+  }
+}
+alwaysUnlocked: true
