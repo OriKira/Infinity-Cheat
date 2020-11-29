@@ -1,0 +1,14 @@
+type: CoreBlock
+name: "Core: Infinity"
+description: "Infinity core. I am [cyan]444[]."
+health: 444444444
+armor: 44444
+itemCapacity: 840000
+size: 6
+unitType: uinfinity
+requirements: [
+	copper/10
+	lead/5
+]
+category: effect
+alwaysUnlocked: true
