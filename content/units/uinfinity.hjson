@@ -3,40 +3,39 @@ name: U-Infinity
 isCounted: false
 health: 4902797
 flying: true
-drag: 0.3
+drag: 0.2
 engineOffset: 4
-speed: 7.99
+speed: 6
 itemCapacity: 444
-accel: 0.1
+accel: 0.6
 rotateSpeed: 20
-mineSpeed: 26
-mineTier: 10
-buildSpeed: 10
+mineSpeed: 20
+mineTier: 2
+buildSpeed: 4
 weapons: [
   {
   name: small-mount-weapon
   top: false
-  inaccuracy: 2
+  inaccuracy: 3
   x: 2
   y: 3
-  shots: 12
+  shots: 11
   ejectEffect: casing1
   reload: 2
   spacing: 1
   shotDelay: 0.5
   bullet: {
     type: BasicBulletType
-    range: 20
-    width: 3.2
-    height: 34.5
+    width: 3.5
+    height: 36
     frontColor: ffffff
     backColor: 00beff
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    damage: 4442
-    lifetime: 500
-    tileDamageMultiplier: 4.3
-    speed: 9
+    damage: 4444
+    lifetime: 544
+    tileDamageMultiplier: 1.8
+    speed: 10
   }
   }
 ]
