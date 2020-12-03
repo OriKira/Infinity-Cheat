@@ -2,9 +2,8 @@ type: PowerSource
 name: Infinity Power
 description: "I am [blue]444[]"
 health: 444
-maxNodes: 100
-consumesPower: false
-outputsPower: true
+maxNodes: 15
+laserRange: 84
 category: power
 buildVisibility: shown
 alwaysUnlocked: true
