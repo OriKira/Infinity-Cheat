@@ -8,6 +8,7 @@ requirement: [
 lightningChance: 10
 lightningDamage: 2444
 lightningLength: 27
+lightningColor: 00beff
 category: defense
 buildVisibility: shown
 alwaysUnlocked: true
