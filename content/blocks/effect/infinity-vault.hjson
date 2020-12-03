@@ -1,0 +1,10 @@
+type: StorageBlock
+name: Infinity Vault
+description: "I am [cyan]444[]"
+size: 3
+health: 4440483636
+itemCapacity: 4440483636
+requirements: [
+]
+category: effect
+alwaysUnlocked: true
