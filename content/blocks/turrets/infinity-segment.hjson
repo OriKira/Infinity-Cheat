@@ -1,0 +1,15 @@
+type: PointDefenseTurret
+name: Infinity Segment
+description: "I am 444"
+health: 348355
+size: 2
+consumes: {
+}
+shootLength: 4.6
+bulletDamage: 12
+reloadTime: 2
+range: 285
+requirements: [
+]
+category: turret
+alwaysUnlocked: true
