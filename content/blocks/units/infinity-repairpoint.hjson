@@ -1,0 +1,12 @@
+type: RepairPoint
+name: Infinity Repair Point
+description: "I am [cyan]444[]"
+health: 4440
+size: 1
+repairRadius: 341
+repairSpeed: 6
+requirements: [
+]
+powerUse: 0.4
+category: units
+alwaysUnlocked: true
