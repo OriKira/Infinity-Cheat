@@ -1,0 +1,16 @@
+type: SolidPump
+name: Inf Slag
+description: "Use it to unlock campaign content"
+health: 44400
+size: 2
+liquidCapacity: 440
+cosumes: {
+}
+pumpAmount: 1.34
+rotateSpeed: 16
+attribute: heat
+result: slag
+requirements: [
+]
+alwaysUnlocked: true
+category: liquid
