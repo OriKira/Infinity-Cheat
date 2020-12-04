@@ -1,0 +1,10 @@
+type: LiquidRouter
+name: Infinity Liquid Tank
+description: "I am [cyan]444[]"
+health: 4000
+size: 3
+liquidCapacity: 440990
+requirements: [
+]
+category: liquid
+alwaysUnlocked: true
