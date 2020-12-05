@@ -1,0 +1,14 @@
+type: MassDriver
+name: Infinity Mass Driver
+description: "I am [cyan]444[]"
+health: 4440
+size: 3
+itemCapacity: 250
+range: 2000
+reload: 150
+consumes: {
+}
+requirements: [
+]
+category: distribution
+alwaysUnlocked: true

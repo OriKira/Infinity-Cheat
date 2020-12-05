@@ -1,0 +1,14 @@
+type: ItemBridge
+name: Infinity Phase Conveyor
+description: "I am [blue]not 444[]"
+health: 44400
+size: 1
+hasPower: false
+itemCapacity: 444444
+range: 30
+consumes: {
+}
+requirements: [
+]
+category: distribution
+alwaysUnlocked: true
