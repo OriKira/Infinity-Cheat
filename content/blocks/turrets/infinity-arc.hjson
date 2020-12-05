@@ -1,0 +1,24 @@
+type: PowerTurret
+name: Infinity Arc
+description: ""
+health: 44400
+size: 1
+recoilAmount: 0
+range: 140
+reloadTime: 27
+shootCone: 40
+rotateSpeed: 5
+powerUse: 0
+targetAir: true
+shootEffect: lightningShoot
+shootSound: spark
+shootType: {
+  type: LightningBulletType
+  damage: 44
+  lightningLength: 35
+  collidesAir: true
+  }
+requirements: [
+]
+category: turret
+alwaysUnlocked: true

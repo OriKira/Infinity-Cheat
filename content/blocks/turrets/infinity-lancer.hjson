@@ -1,0 +1,36 @@
+type: PowerTurret
+name: Infinity Lancer
+description: ""
+health: 44455
+size: 2
+range: 250
+chargeTime: 38
+chargeMaxDelay: 30
+rotateSpeed: 5
+chargeEffect: 9
+recoilAmount: 1
+reloadTime: 60
+cooldown: 0.03
+powerUse: 0
+shootShake: 4
+shootEffect: lancerLaserShoot
+smokeEffect: none
+chargeEffect: lancerLaserCharge
+chargeBeginEffect: lancerLaserChargeBegin
+targetAir: false
+shootSound: laser
+shootType: {
+  type: LaserBulletType
+  hitEffect: hitLancer
+  despawnEffect: none
+  lifetime: 18
+  drawSize: 400
+  collidesAir: false
+  length: 264
+  damage: 215
+  color: white
+}
+requirements: [
+]
+category: turret
+alwaysUnlocked: true

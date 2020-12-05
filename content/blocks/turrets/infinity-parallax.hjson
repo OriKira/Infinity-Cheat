@@ -1,0 +1,17 @@
+type: TractorBeamTurret
+name: Infinity Parallax
+description: ""
+health: 44455
+size: 2
+hasPower: false
+force: 10
+scaledForce: 9
+range: 320
+damage: 1
+rotateSpeed: 6
+consumes: {
+}
+requirements: [
+]
+category: turret
+alwaysUnlocked: true

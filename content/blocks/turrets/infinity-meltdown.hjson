@@ -1,0 +1,29 @@
+type: LaserTurret
+name: Infinity Meltdown
+description: ""
+health: 44499
+size: 4
+shootShake: 5
+range: 410
+reloadTime: 1
+firingMoveFract: 0.3
+shootDuration: 320
+powerUse: 3
+shootSound: laserbig
+loopSound: beam
+loopSoundVolume: 2.7
+shootType: {
+  type: ContinuousLaserBulletType
+  length: 430
+  hitEffect: hitMeltdown
+  drawSize: 502
+  damage: 712
+  incendChance: 0.6
+  incendSpread: 7
+  incendAmount: 1
+}
+requirements: [
+   copper/10
+]
+category: turret
+alwaysUnlocked: true
