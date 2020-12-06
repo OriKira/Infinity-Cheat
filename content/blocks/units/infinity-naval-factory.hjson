@@ -1,0 +1,20 @@
+type: UnitFactory
+name: Infinity Naval Factory
+description: "I am [cyan]444[]"
+health: 444
+size: 3
+floating: true
+plans: [
+  {
+   unit: risso
+   time: 100
+   requirements: [
+  ]
+}
+]
+consumes: {
+}
+requirements: [
+]
+category: units
+alwaysUnlocked: true

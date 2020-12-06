@@ -1,0 +1,25 @@
+type: UnitFactory
+name: Infinity Air Factory
+description: "I am [cyan]444[]"
+health: 444
+size: 3
+plans: [
+  {
+   unit: flare
+   time: 100
+   requirements: [
+  ]
+}
+  {
+   unit: mono
+   time: 100
+   requirements: [
+  ]
+}
+]
+consumes: {
+}
+requirements: [
+]
+category: units
+alwaysUnlocked: true

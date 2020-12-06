@@ -1,0 +1,20 @@
+type: Reconstructor
+name: Infinity-Exponential-Reconstructor
+description: "I am [cyan]444[]"
+health: 44400
+size: 7
+constructTime: 100
+upgrades: [
+  [quasar, vela],
+  [fortress, scepter],
+  [spiroct, arkyid],
+  [zenith, antumbra],
+  [mega, quad],
+  [bryde, sei]
+]
+consumes: {
+}
+requirements: [
+]
+category: units
+alwaysUnlocked: true

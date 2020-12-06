@@ -1,0 +1,20 @@
+type: Reconstructor
+name: Infinity-Tetrative-Reconstructor
+description: "I am [cyan]444[]"
+health: 444000
+size: 9
+constructTime: 100
+upgrades: [
+  [vela, corvus],
+  [scepter, reign],
+  [arkyid, toxopid],
+  [antumbra, eclipse],
+  [quad, oct],
+  [sei, omura]
+]
+consumes: {
+}
+requirements: [
+]
+category: units
+alwaysUnlocked: true

@@ -1,0 +1,20 @@
+type: Reconstructor
+name: Infinity-Multiplicative-Reconstructor
+description: "I am [cyan]444[]"
+health: 4440
+size: 5
+constructTime: 100
+upgrades: [
+  [pulsar, quasar],
+  [mace, fortress],
+  [atrax, spiroct],
+  [horizon, zenith],
+  [poly, mega],
+  [minke, bryde]
+]
+consumes: {
+}
+requirements: [
+]
+category: units
+alwaysUnlocked: true

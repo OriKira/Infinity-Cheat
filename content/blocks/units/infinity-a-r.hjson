@@ -1,0 +1,20 @@
+type: Reconstructor
+name: Infinity-Addictive-Reconstructor
+description: "I am [cyan]444[]"
+health: 4440
+size: 3
+constructTime: 100
+upgrades: [
+  [nova, pulsar],
+  [dagger, mace],
+  [crawler, atrax],
+  [flare, horizon],
+  [mono, poly],
+  [risso, minke]
+]
+consumes: {
+}
+requirements: [
+]
+category: units
+alwaysUnlocked: true
