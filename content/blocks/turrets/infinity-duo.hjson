@@ -1,0 +1,73 @@
+type: ItemTurret
+name: Infinity Duo
+description: ""
+health: 444444
+size: 1
+spread: 4
+shots: 2
+alternate: true
+maxAmmo: 25
+reloadTime: 5
+restitution: 0.03
+range: 200
+shootCone: 15
+ammoUseEffect: casing1
+inaccuracy: 1
+rotateSpeed: 5
+ammoTypes: {
+  copper: {
+   type: BasicBulletType
+   height: 15
+   width: 15
+   damage: 4444
+   speed: 4
+   hitShake: 1
+   frontColor: aae4ff
+   backColor: aae4ff
+   lifetime: 1000
+   ammoMultiplier: 1
+  }
+  graphite: {
+   type: BasicBulletType
+   height: 15
+   width: 15
+   damage: 199
+   tileDamageMultiplier: 1
+   speed: 4
+   hitShake: 2
+   frontColor: ffe392
+   backColor: ffe392
+   lifetime: 1000
+   ammoMultiplier: 2
+  }
+  pyratite: {
+   type: BasicBulletType
+   height: 15
+   width: 15
+   damage: 999
+   tileDamageMultiplier: 3
+   speed: 4
+   hitShake: 4
+   frontColor: ffc003
+   backColor: ffc003
+   lifetime: 1000
+   ammoMultiplier: 2
+  }
+  silicon: {
+   type: BasicBulletType
+   height: 15
+   width: 15
+   damage: 399
+   tileDamageMultiplier: 3
+   speed: 5
+   hitShake: 3
+   frontColor: 444444
+   backColor: 444444
+   lifetime: 1000
+   ammoMultiplier: 3
+  }
+}
+requirements: [
+]
+category: turret
+alwaysUnlocked: true
