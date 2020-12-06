@@ -1,7 +1,7 @@
 type: Wall
 name: Infinity Wall
 description: "I am [yellow]444[]"
-health: 444000
+health: 444000000
 size: 1
 requirement: [
 ]
