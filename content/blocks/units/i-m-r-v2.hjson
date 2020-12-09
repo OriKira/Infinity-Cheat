@@ -1,0 +1,49 @@
+type: UnitFactory
+name: Multiplicative Reconstructor V2
+description: "I am [cyan]444[]"
+health: 44400
+size: 3
+plans: [
+  {
+   unit: quasar
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: fortress
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: spiroct
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: zenith
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: mega
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: bryde
+   time: 50
+   requirements: [
+  ]
+}
+]
+consumes: {
+}
+requirements: [
+]
+category: units
+alwaysUnlocked: true

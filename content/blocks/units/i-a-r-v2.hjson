@@ -1,0 +1,49 @@
+type: UnitFactory
+name: Addictive Reconstructor V2
+description: "I am [cyan]444[]"
+health: 44400
+size: 3
+plans: [
+  {
+   unit: pulsar
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: mace
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: atrax
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: horizon
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: poly
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: minke
+   time: 50
+   requirements: [
+  ]
+}
+]
+consumes: {
+}
+requirements: [
+]
+category: units
+alwaysUnlocked: true

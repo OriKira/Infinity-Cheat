@@ -1,0 +1,49 @@
+type: UnitFactory
+name: Tetrative Reconstructor V2
+description: "I am [cyan]444[]"
+health: 44400
+size: 3
+plans: [
+  {
+   unit: corvus
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: reign
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: toxopid
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: eclipse
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: oct
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: omura
+   time: 50
+   requirements: [
+  ]
+}
+]
+consumes: {
+}
+requirements: [
+]
+category: units
+alwaysUnlocked: true

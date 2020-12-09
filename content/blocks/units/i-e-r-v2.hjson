@@ -1,0 +1,49 @@
+type: UnitFactory
+name: Exponential Reconstructor V2
+description: "I am [cyan]444[]"
+health: 44400
+size: 3
+plans: [
+  {
+   unit: vela
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: scepter
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: arkyid
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: antumbra
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: quad
+   time: 50
+   requirements: [
+  ]
+}
+  {
+   unit: sei
+   time: 50
+   requirements: [
+  ]
+}
+]
+consumes: {
+}
+requirements: [
+]
+category: units
+alwaysUnlocked: true
