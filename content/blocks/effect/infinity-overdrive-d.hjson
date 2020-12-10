@@ -1,0 +1,18 @@
+type: OverdriveProjector
+name: "Infinity Overdrive Dome"
+description: "I am [red]444[]"
+size: 3
+health: 4444
+color: 00b7ff
+phase: 8cdeff
+speedBoost: 44.444
+reload: 15
+range: 444
+useTime: 50
+hasBoost: false
+consumes: {
+}
+requirements: [
+]
+category: effect
+alwaysUnlocked: true

@@ -1,0 +1,18 @@
+type: OverdriveProjector
+name: "Infinity Overdrive Projector"
+description: "I am [red]444[]"
+size: 2
+health: 4440
+color: 00b7ff
+phase: 8cdeff
+speedBoost: 44
+reload: 30
+range: 222
+useTime: 100
+hasBoost: false
+consumes: {
+}
+requirements: [
+]
+category: effect
+alwaysUnlocked: true
