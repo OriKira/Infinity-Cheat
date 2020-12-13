@@ -5,7 +5,7 @@ size: 3
 health: 4444
 color: 00b7ff
 phase: 8cdeff
-speedBoost: 44.444
+speedBoost: 459
 reload: 15
 range: 444
 useTime: 50
