@@ -16,10 +16,10 @@ weapons: [
   {
   name: small-mount-weapon
   top: false
-  inaccuracy: 3
+  inaccuracy: 0
   x: 2
-  y: 3
-  shots: 11
+  y: 4
+  shots: 15
   ejectEffect: casing1
   reload: 2
   spacing: 1
@@ -27,7 +27,7 @@ weapons: [
   bullet: {
     type: BasicBulletType
     width: 3.5
-    height: 36
+    height: 27
     frontColor: ffffff
     backColor: 00beff
     shootEffect: shootSmall
